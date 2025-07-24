@@ -1,4 +1,4 @@
-﻿"""Graph Anything Over Time  root launcher
+"""Graph Anything Over Time  Home launcher
 
 This minimal root script simply sets global configuration, injects shared CSS,
 and shows the landing page. All functional pages now reside in the pages/
@@ -30,4 +30,4 @@ def main() -> None:
     st.success("Use the sidebar to navigate through the app sections ")
 
 if __name__ == "__main__":
-    main()
+    main() 
